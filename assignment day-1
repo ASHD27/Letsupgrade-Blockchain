@@ -1,0 +1,33 @@
+What is your understanding of Blockchain?
+-blockchain works with distributed systems and cryptography encryption that keeps constant record of all the transaction in form of block , that is secure , immutable, and decentralised.
+
+
+What is the core problem blockchain trying to solve?
+-no central dependency
+-verifiability
+-authenticity.
+-security
+
+
+What are the few features which blockchain will give u?
+
+-verifiability
+-immutable
+-security
+-decentralised: so trust is not on 3rd party or single entity rather trust is on whole block community individually
+-tamper-proof
+
+
+What all things does a Block Contain?
+
+-A block contain several things:
+. block number
+. transaction detail.
+. previous hash key.
+. code that will generated the current hash key by taking the current data and previous key.
+
+
+How is the verifiability of Blockchain is been attained ?
+
+-verifiability is attained as numerous computers shared these blocks so if any block in any computer generates different hash key then the rest of the block in other computers.
+other computers will prompt the computer with different block that your data needs to be changed completely in this way verifiability is attained.
